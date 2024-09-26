@@ -1,0 +1,8 @@
+{
+"id" : 0,
+"jsonrpc" : "2.0",
+"methode" : "Api.Login",
+"params" : { 
+		"user" : "json",
+		"password" : "json"
+}}
